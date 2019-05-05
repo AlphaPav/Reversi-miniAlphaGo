@@ -6,7 +6,8 @@ miniAlphaGo for Reversi in MCTS (C++) and  AlphaGo Zero (Pytorch)
   <img src="./pics/reversi.png" width="400">
 </figure>
 UI is made in Qt5.
-  
+@ Liu Ziwei, Xie Chulin
+
 ## AlphaGo Zero
 - train: `python train.py`
 - play: `python human_play.py`
@@ -14,4 +15,4 @@ UI is made in Qt5.
 <figure >
   <img src="./pics/zero.png" width="400">
 </figure>
-
+@ Xie Chulin
