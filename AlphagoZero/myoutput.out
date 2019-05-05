@@ -1,0 +1,2066 @@
+nohup: ignoring input
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 2
+batch i:1, episode_len:60
+Game end. Winner is player: 2
+batch i:2, episode_len:60
+kl:0.03237,lr_multiplier:1.000,loss:5.130241394042969,entropy:4.122769355773926,explained_var_old:0.000,explained_var_new:0.001
+Game end. Winner is player: 2
+batch i:3, episode_len:60
+kl:0.04920,lr_multiplier:0.667,loss:4.928761005401611,entropy:4.07907247543335,explained_var_old:0.001,explained_var_new:0.381
+Game end. Winner is player: 1
+batch i:4, episode_len:60
+kl:0.03439,lr_multiplier:0.667,loss:4.954469680786133,entropy:4.132805824279785,explained_var_old:0.156,explained_var_new:0.180
+Game end. Winner is player: 2
+batch i:5, episode_len:60
+kl:0.03694,lr_multiplier:0.667,loss:4.776540756225586,entropy:4.066073894500732,explained_var_old:0.272,explained_var_new:0.367
+WARNING: mcts_alphago player no place to go
+WARNING: mcts_alphago player no place to go
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 1
+batch i:6, episode_len:60
+kl:0.09162,lr_multiplier:0.444,loss:4.856324672698975,entropy:3.97259259223938,explained_var_old:0.142,explained_var_new:0.070
+Game end. Winner is player: 2
+batch i:7, episode_len:60
+kl:0.04631,lr_multiplier:0.296,loss:4.77745246887207,entropy:3.9851808547973633,explained_var_old:0.071,explained_var_new:0.141
+Game end. Winner is player: 2
+batch i:8, episode_len:60
+kl:0.04206,lr_multiplier:0.198,loss:4.683008670806885,entropy:3.8801772594451904,explained_var_old:0.185,explained_var_new:0.231
+Game end. Winner is player: 2
+batch i:9, episode_len:60
+kl:0.02721,lr_multiplier:0.198,loss:4.621199607849121,entropy:3.875535011291504,explained_var_old:0.249,explained_var_new:0.241
+Game end. Winner is player: 2
+batch i:10, episode_len:60
+kl:0.02230,lr_multiplier:0.198,loss:4.567697048187256,entropy:3.823800802230835,explained_var_old:0.258,explained_var_new:0.264
+current self-play batch: 10
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       X       O       O       O       O       O    
+
+
+   6   O       X       O       O       O       O       O       O    
+
+
+   5   X       X       X       O       X       O       X       O    
+
+
+   4   X       X       X       O       O       X       X       O    
+
+
+   3   X       X       X       O       X       X       X       O    
+
+
+   2   X       X       O       X       X       X       X       O    
+
+
+   1   X       O       X       X       X       X       X       O    
+
+
+   0   O       O       O       O       O       O       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       X       X       O       O       O       O    
+
+
+   5   O       O       O       X       X       O       O       O    
+
+
+   4   O       O       X       X       X       O       O       O    
+
+
+   3   O       O       O       X       X       O       O       O    
+
+
+   2   O       O       X       X       X       X       O       O    
+
+
+   1   O       O       X       X       O       X       X       X    
+
+
+   0   X       X       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       O       O       O       O       O       O       O    
+
+
+   6   X       O       O       O       O       X       O       X    
+
+
+   5   X       O       X       O       X       O       X       X    
+
+
+   4   X       O       O       X       X       O       O       X    
+
+
+   3   O       O       X       X       X       O       O       X    
+
+
+   2   X       O       X       O       X       X       O       X    
+
+
+   1   X       X       O       O       O       O       X       X    
+
+
+   0   O       O       O       O       O       O       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       O       X       X       X       X       X       X    
+
+
+   5   X       O       X       O       X       X       X       X    
+
+
+   4   X       O       O       O       X       O       X       X    
+
+
+   3   X       O       O       O       O       X       O       X    
+
+
+   2   X       X       O       O       X       O       O       X    
+
+
+   1   X       O       X       X       X       X       O       X    
+
+
+   0   O       O       X       X       X       X       X       X    
+
+
+WARNING: mcts_alphago player no place to go
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       O       X       X       X       X       X    
+
+
+   6   O       O       X       X       X       X       X       X    
+
+
+   5   O       X       O       X       O       O       X       O    
+
+
+   4   X       O       O       X       X       X       O       O    
+
+
+   3   X       X       O       X       X       O       X       O    
+
+
+   2   X       X       O       X       O       O       X       O    
+
+
+   1   X       X       X       X       X       X       O       O    
+
+
+   0   X       X       X       X       X       X       X       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       O    
+
+
+   6   O       X       X       X       X       X       O       O    
+
+
+   5   O       O       O       O       X       X       X       O    
+
+
+   4   X       O       X       X       X       X       O       O    
+
+
+   3   X       X       X       X       O       O       O       O    
+
+
+   2   X       X       O       O       O       O       O       O    
+
+
+   1   X       O       O       O       O       O       O       O    
+
+
+   0   X       O       O       O       O       O       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       O       O       O       O       O       O    
+
+
+   6   X       X       X       X       X       O       O       X    
+
+
+   5   X       X       X       X       O       O       X       X    
+
+
+   4   X       X       X       X       X       X       O       X    
+
+
+   3   X       X       O       X       X       X       O       X    
+
+
+   2   X       X       X       X       X       X       X       X    
+
+
+   1   X       X       X       X       X       X       X       X    
+
+
+   0   X       X       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       X       X       X       X       X       X       X    
+
+
+   6   O       O       X       X       X       X       X       O    
+
+
+   5   O       X       X       X       X       X       X       O    
+
+
+   4   O       X       X       O       O       X       X       O    
+
+
+   3   O       X       X       O       X       X       X       O    
+
+
+   2   O       X       O       X       X       O       X       O    
+
+
+   1   O       X       X       O       O       O       O       O    
+
+
+   0   O       X       X       X       X       O       O       O    
+
+
+WARNING: mcts_basic player no place to go
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       O       O       X       X       X       X    
+
+
+   6   O       O       O       X       X       X       X       O    
+
+
+   5   O       X       X       X       O       X       O       O    
+
+
+   4   O       X       X       O       X       O       O       O    
+
+
+   3   O       X       X       X       O       X       O       O    
+
+
+   2   O       X       O       X       X       O       X       O    
+
+
+   1   O       X       X       O       X       X       O       O    
+
+
+   0   O       X       X       X       X       X       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       O       X       X       X       X       X    
+
+
+   6   O       O       X       X       X       X       X       X    
+
+
+   5   O       X       O       X       O       X       X       X    
+
+
+   4   O       X       X       X       X       O       X       X    
+
+
+   3   O       O       O       X       X       O       O       X    
+
+
+   2   O       O       X       O       X       O       O       X    
+
+
+   1   O       X       O       X       X       X       X       X    
+
+
+   0   X       X       X       X       X       X       X       X    
+
+
+num_playouts:1000, win: 6, lose: 3, tie:1
+New best policy!!!!!!!!
+policy_evaluate time:  6270
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 1
+batch i:11, episode_len:60
+kl:0.01648,lr_multiplier:0.198,loss:4.591651439666748,entropy:3.7737345695495605,explained_var_old:0.218,explained_var_new:0.206
+Game end. Winner is player: 1
+batch i:12, episode_len:60
+kl:0.01787,lr_multiplier:0.198,loss:4.627998352050781,entropy:3.762845754623413,explained_var_old:0.123,explained_var_new:0.108
+Game end. Winner is player: 1
+batch i:13, episode_len:60
+kl:0.01457,lr_multiplier:0.198,loss:4.690582275390625,entropy:3.7422680854797363,explained_var_old:0.056,explained_var_new:0.054
+Game end. Winner is player: 2
+batch i:14, episode_len:60
+kl:0.01950,lr_multiplier:0.198,loss:4.573365688323975,entropy:3.7223429679870605,explained_var_old:0.096,explained_var_new:0.115
+Game end. Winner is player: 2
+batch i:15, episode_len:60
+kl:0.01997,lr_multiplier:0.198,loss:4.595565319061279,entropy:3.7254340648651123,explained_var_old:0.119,explained_var_new:0.126
+Game end. Winner is player: 2
+batch i:16, episode_len:60
+kl:0.02875,lr_multiplier:0.198,loss:4.543834686279297,entropy:3.6800692081451416,explained_var_old:0.148,explained_var_new:0.148
+Game end. Winner is player: 2
+batch i:17, episode_len:60
+kl:0.01472,lr_multiplier:0.198,loss:4.526533126831055,entropy:3.7264864444732666,explained_var_old:0.177,explained_var_new:0.180
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 1
+batch i:18, episode_len:60
+kl:0.01946,lr_multiplier:0.198,loss:4.558841705322266,entropy:3.71451735496521,explained_var_old:0.100,explained_var_new:0.095
+Game end. Winner is player: 2
+batch i:19, episode_len:60
+kl:0.02400,lr_multiplier:0.198,loss:4.480401515960693,entropy:3.6382439136505127,explained_var_old:0.131,explained_var_new:0.144
+Game end. Winner is player: 2
+batch i:20, episode_len:60
+kl:0.02896,lr_multiplier:0.198,loss:4.4202351570129395,entropy:3.629666328430176,explained_var_old:0.196,explained_var_new:0.220
+current self-play batch: 20
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       X       X       X       X       X       X       X    
+
+
+   6   O       X       X       X       X       O       X       O    
+
+
+   5   O       O       X       X       O       X       O       O    
+
+
+   4   O       X       O       X       X       X       O       O    
+
+
+   3   O       X       X       O       O       X       O       O    
+
+
+   2   O       X       X       X       O       X       O       O    
+
+
+   1   X       X       O       X       X       O       O       O    
+
+
+   0   X       X       X       X       X       X       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   O       X       X       O       O       O       X       X    
+
+
+   5   O       X       X       O       O       X       O       O    
+
+
+   4   O       X       O       O       X       X       O       O    
+
+
+   3   O       X       X       O       X       X       X       O    
+
+
+   2   O       X       X       X       X       X       X       O    
+
+
+   1   O       O       O       O       X       X       X       O    
+
+
+   0   O       O       O       O       O       O       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       O       X       X       X       X       X    
+
+
+   6   O       O       O       X       X       X       X       O    
+
+
+   5   O       O       O       X       X       X       X       X    
+
+
+   4   O       O       O       X       X       X       X       X    
+
+
+   3   O       O       X       X       X       X       X       X    
+
+
+   2   O       X       X       X       X       X       X       X    
+
+
+   1   O       X       X       X       X       X       X       X    
+
+
+   0   X       X       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       X       O       O       O       O       X    
+
+
+   6   O       O       X       O       O       O       O       X    
+
+
+   5   O       O       O       O       O       X       O       X    
+
+
+   4   O       O       X       O       O       X       X       X    
+
+
+   3   O       X       O       O       O       O       X       X    
+
+
+   2   O       X       X       X       O       X       O       X    
+
+
+   1   O       X       X       X       X       O       O       X    
+
+
+   0   X       X       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       O       O       O       O       O       X    
+
+
+   6   O       O       O       O       O       O       O       O    
+
+
+   5   O       O       X       X       X       X       O       O    
+
+
+   4   O       X       O       X       X       X       O       X    
+
+
+   3   O       O       O       X       O       O       O       X    
+
+
+   2   O       O       O       X       O       X       O       X    
+
+
+   1   O       O       X       X       X       O       X       X    
+
+
+   0   X       O       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       O       O       O       O    
+
+
+   6   X       X       X       O       O       X       X       X    
+
+
+   5   X       X       O       X       X       X       X       X    
+
+
+   4   X       X       O       X       X       X       O       O    
+
+
+   3   X       X       X       O       X       X       O       O    
+
+
+   2   O       X       O       X       O       O       O       O    
+
+
+   1   O       X       X       X       X       X       O       O    
+
+
+   0   O       X       X       X       O       O       O       O    
+
+
+WARNING: mcts_alphago player no place to go
+WARNING: mcts_alphago player no place to go
+WARNING: mcts_alphago player no place to go
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       O       X       X       O       O       X    
+
+
+   6   O       O       X       X       X       O       X       X    
+
+
+   5   O       X       O       X       O       O       X       X    
+
+
+   4   O       X       O       O       X       O       O       X    
+
+
+   3   O       X       O       O       X       X       O       X    
+
+
+   2   O       O       X       O       O       O       O       X    
+
+
+   1   O       O       O       O       O       X       O       X    
+
+
+   0   O       O       O       O       O       O       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       X       X       X       X       X       X    
+
+
+   5   X       X       X       X       X       X       O       X    
+
+
+   4   X       X       X       X       X       X       O       X    
+
+
+   3   X       X       O       X       X       X       O       X    
+
+
+   2   X       O       O       X       O       O       X       X    
+
+
+   1   X       O       O       O       X       O       X       X    
+
+
+   0   X       O       O       O       X       X       X       X    
+
+
+WARNING: mcts_basic player no place to go
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       O       O       O    
+
+
+   6   X       X       X       X       X       O       O       O    
+
+
+   5   X       X       X       X       X       X       O       O    
+
+
+   4   O       X       X       O       X       X       X       O    
+
+
+   3   X       X       O       X       X       X       X       X    
+
+
+   2   X       O       X       O       O       X       X       X    
+
+
+   1   X       X       O       O       X       X       X       X    
+
+
+   0   X       O       O       X       X       X       X       X    
+
+
+WARNING: mcts_alphago player no place to go
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       X       O       O       O       O       X    
+
+
+   5   X       X       X       X       X       X       O       X    
+
+
+   4   X       X       X       X       X       X       O       X    
+
+
+   3   X       O       X       X       O       O       O       X    
+
+
+   2   X       O       X       X       O       O       O       X    
+
+
+   1   X       X       O       O       O       O       O       O    
+
+
+   0   X       X       O       O       O       X       X       O    
+
+
+num_playouts:1000, win: 6, lose: 3, tie:1
+policy_evaluate time:  6373
+Game end. Winner is player: 1
+batch i:21, episode_len:59
+kl:0.01604,lr_multiplier:0.198,loss:4.51613187789917,entropy:3.624284505844116,explained_var_old:0.090,explained_var_new:0.091
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 2
+batch i:22, episode_len:60
+kl:0.02071,lr_multiplier:0.198,loss:4.50003719329834,entropy:3.6469082832336426,explained_var_old:0.103,explained_var_new:0.093
+Game end. Winner is player: 2
+batch i:23, episode_len:60
+kl:0.02467,lr_multiplier:0.198,loss:4.463822364807129,entropy:3.6424028873443604,explained_var_old:0.106,explained_var_new:0.137
+Game end. Winner is player: 1
+batch i:24, episode_len:60
+kl:0.02064,lr_multiplier:0.198,loss:4.445578098297119,entropy:3.580327272415161,explained_var_old:0.089,explained_var_new:0.089
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 1
+batch i:25, episode_len:60
+kl:0.02688,lr_multiplier:0.198,loss:4.538033962249756,entropy:3.589780330657959,explained_var_old:-0.031,explained_var_new:0.015
+Game end. Winner is player: 2
+batch i:26, episode_len:60
+kl:0.03276,lr_multiplier:0.198,loss:4.41849946975708,entropy:3.508124351501465,explained_var_old:0.079,explained_var_new:0.071
+Game end. Winner is player: 2
+batch i:27, episode_len:60
+kl:0.02781,lr_multiplier:0.198,loss:4.318074703216553,entropy:3.5361428260803223,explained_var_old:0.090,explained_var_new:0.128
+Game end. Winner is player: 1
+batch i:28, episode_len:60
+kl:0.04285,lr_multiplier:0.132,loss:4.408689022064209,entropy:3.522195339202881,explained_var_old:0.062,explained_var_new:0.064
+Game end. Winner is player: 1
+batch i:29, episode_len:60
+kl:0.01466,lr_multiplier:0.132,loss:4.3790202140808105,entropy:3.4399709701538086,explained_var_old:-0.002,explained_var_new:0.013
+Game end. Winner is player: 2
+batch i:30, episode_len:60
+kl:0.03042,lr_multiplier:0.132,loss:4.385591506958008,entropy:3.461766481399536,explained_var_old:0.038,explained_var_new:0.034
+current self-play batch: 30
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       O       O       O       X       X       X    
+
+
+   6   O       X       X       O       O       X       X       X    
+
+
+   5   O       X       O       O       O       X       X       X    
+
+
+   4   O       O       O       O       X       X       X       X    
+
+
+   3   O       O       O       O       O       X       X       X    
+
+
+   2   X       O       O       O       O       X       O       X    
+
+
+   1   X       X       O       X       O       O       X       X    
+
+
+   0   X       X       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       X       O       X       X       X       X    
+
+
+   5   X       X       X       O       O       O       O       X    
+
+
+   4   X       X       X       O       O       O       O       X    
+
+
+   3   X       O       O       X       O       X       O       X    
+
+
+   2   O       O       O       O       O       O       X       X    
+
+
+   1   X       O       O       O       O       X       X       X    
+
+
+   0   X       O       O       O       O       O       O       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       O       O    
+
+
+   6   O       X       X       X       X       X       O       X    
+
+
+   5   O       O       O       X       O       O       O       X    
+
+
+   4   O       X       O       X       X       O       O       X    
+
+
+   3   O       X       X       X       X       O       O       X    
+
+
+   2   O       X       X       X       O       O       X       X    
+
+
+   1   O       O       X       X       X       O       O       X    
+
+
+   0   O       O       O       O       O       O       O       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       X       X       X       O       X       X    
+
+
+   5   X       X       X       X       O       O       O       X    
+
+
+   4   O       X       O       O       O       O       O       X    
+
+
+   3   O       X       O       X       O       X       O       X    
+
+
+   2   O       X       X       X       O       X       O       X    
+
+
+   1   O       X       X       X       X       X       X       X    
+
+
+   0   O       O       O       O       O       O       O       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       X       X       X       X       X       X       X    
+
+
+   6   O       O       O       O       O       X       X       X    
+
+
+   5   O       X       O       X       X       X       X       X    
+
+
+   4   O       X       O       X       X       O       X       X    
+
+
+   3   O       X       O       X       O       X       X       X    
+
+
+   2   O       X       X       O       O       O       X       X    
+
+
+   1   O       X       X       X       X       X       O       X    
+
+
+   0   O       O       O       O       O       O       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       O       O       X       X       X       X       X    
+
+
+   6   X       O       O       O       X       X       O       X    
+
+
+   5   X       X       O       X       O       X       X       X    
+
+
+   4   X       O       O       X       X       X       X       X    
+
+
+   3   X       X       O       X       X       O       X       X    
+
+
+   2   X       X       X       X       O       X       O       X    
+
+
+   1   X       X       X       X       X       X       O       X    
+
+
+   0   O       O       O       O       O       X       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       O    
+
+
+   6   X       O       O       X       X       X       X       X    
+
+
+   5   O       O       X       X       O       O       X       O    
+
+
+   4   O       O       O       O       O       O       O       O    
+
+
+   3   X       X       X       X       X       X       X       X    
+
+
+   2   X       X       X       X       X       X       X       X    
+
+
+   1   O       X       X       X       X       O       X       X    
+
+
+   0   O       X       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   O       X       X       X       X       X       O       O    
+
+
+   5   O       O       X       X       O       O       O       O    
+
+
+   4   O       X       X       X       X       O       O       O    
+
+
+   3   O       X       O       X       O       O       O       O    
+
+
+   2   O       X       X       O       O       O       X       X    
+
+
+   1   O       X       O       O       O       O       O       X    
+
+
+   0   O       X       O       O       O       O       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       O    
+
+
+   6   X       X       O       X       O       X       X       O    
+
+
+   5   X       X       X       X       O       O       X       O    
+
+
+   4   O       X       X       O       O       O       O       O    
+
+
+   3   O       X       X       X       X       X       O       O    
+
+
+   2   O       X       X       X       O       O       X       O    
+
+
+   1   O       X       X       X       X       X       O       O    
+
+
+   0   X       X       X       X       X       X       O       O    
+
+
+WARNING: mcts_alphago player no place to go
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       O       X       X       X       X    
+
+
+   6   X       X       X       O       O       O       O       X    
+
+
+   5   X       X       X       O       X       O       O       X    
+
+
+   4   X       O       X       O       O       X       X       X    
+
+
+   3   X       X       O       O       O       X       O       X    
+
+
+   2   X       O       O       O       O       O       X       X    
+
+
+   1   O       O       O       O       O       O       O       X    
+
+
+   0   O       O       O       O       O       O       O       O    
+
+
+num_playouts:1000, win: 8, lose: 2, tie:0
+New best policy!!!!!!!!
+policy_evaluate time:  6203
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 2
+batch i:31, episode_len:60
+kl:0.01676,lr_multiplier:0.132,loss:4.394596099853516,entropy:3.450918674468994,explained_var_old:0.028,explained_var_new:0.031
+Game end. Winner is player: 2
+batch i:32, episode_len:60
+kl:0.02412,lr_multiplier:0.132,loss:4.299253940582275,entropy:3.4451372623443604,explained_var_old:0.056,explained_var_new:0.070
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 1
+batch i:33, episode_len:60
+kl:0.01760,lr_multiplier:0.132,loss:4.302470684051514,entropy:3.4263710975646973,explained_var_old:0.069,explained_var_new:0.077
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 1
+batch i:34, episode_len:60
+kl:0.03020,lr_multiplier:0.132,loss:4.316608905792236,entropy:3.441697359085083,explained_var_old:0.045,explained_var_new:0.049
+Game end. Winner is player: 2
+batch i:35, episode_len:60
+kl:0.01938,lr_multiplier:0.132,loss:4.302709102630615,entropy:3.385633707046509,explained_var_old:0.073,explained_var_new:0.068
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 2
+batch i:36, episode_len:60
+kl:0.03354,lr_multiplier:0.132,loss:4.262446880340576,entropy:3.3796801567077637,explained_var_old:0.064,explained_var_new:0.059
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 1
+batch i:37, episode_len:60
+kl:0.02373,lr_multiplier:0.132,loss:4.3082594871521,entropy:3.401167392730713,explained_var_old:0.037,explained_var_new:0.043
+Game end. Winner is player: 1
+batch i:38, episode_len:60
+kl:0.01546,lr_multiplier:0.132,loss:4.301279544830322,entropy:3.404991626739502,explained_var_old:-0.018,explained_var_new:-0.006
+Game end. Winner is player: 1
+batch i:39, episode_len:60
+kl:0.02731,lr_multiplier:0.132,loss:4.2849860191345215,entropy:3.371485471725464,explained_var_old:-0.012,explained_var_new:0.003
+Game end. Winner is player: 2
+batch i:40, episode_len:60
+kl:0.02909,lr_multiplier:0.132,loss:4.219165802001953,entropy:3.2615036964416504,explained_var_old:0.006,explained_var_new:0.017
+current self-play batch: 40
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       O    
+
+
+   6   X       O       X       X       X       X       X       O    
+
+
+   5   O       O       O       O       X       X       X       O    
+
+
+   4   O       O       O       X       X       X       X       O    
+
+
+   3   X       X       X       X       O       O       X       O    
+
+
+   2   X       X       X       X       X       O       X       O    
+
+
+   1   X       X       O       O       O       X       O       O    
+
+
+   0   X       O       O       O       O       O       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       X       X       X       X       X       O    
+
+
+   5   X       X       X       O       X       X       X       O    
+
+
+   4   X       X       O       X       X       O       O       O    
+
+
+   3   X       O       X       O       O       O       O       X    
+
+
+   2   O       O       O       O       O       O       X       X    
+
+
+   1   X       X       X       X       X       O       X       X    
+
+
+   0   X       X       X       X       X       O       O       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       O       X       X       X       X       X       X    
+
+
+   6   X       O       O       O       O       O       O       X    
+
+
+   5   X       O       X       O       O       O       O       X    
+
+
+   4   X       O       O       X       O       O       O       X    
+
+
+   3   X       O       O       O       X       O       O       X    
+
+
+   2   X       O       X       X       X       X       O       O    
+
+
+   1   O       O       X       X       X       X       X       O    
+
+
+   0   O       O       O       O       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       O       O       O       O       O       O    
+
+
+   6   O       O       X       X       X       O       O       O    
+
+
+   5   O       O       O       X       O       O       X       O    
+
+
+   4   X       X       O       O       X       O       X       X    
+
+
+   3   X       X       O       O       O       O       X       X    
+
+
+   2   X       X       O       X       O       O       O       X    
+
+
+   1   X       X       X       O       O       O       X       X    
+
+
+   0   O       O       O       O       O       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       O       O       O       O       O       X    
+
+
+   6   X       X       O       O       X       O       O       X    
+
+
+   5   X       X       O       O       O       X       O       X    
+
+
+   4   X       X       X       O       O       O       X       X    
+
+
+   3   X       X       O       O       O       O       X       X    
+
+
+   2   X       X       X       X       O       O       X       X    
+
+
+   1   O       X       X       O       O       X       O       O    
+
+
+   0   O       X       X       X       X       X       X       X    
+
+
+WARNING: mcts_alphago player no place to go
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       O       O       O       O       O       X    
+
+
+   6   X       O       O       O       O       O       O       X    
+
+
+   5   X       O       O       O       O       O       O       X    
+
+
+   4   X       O       X       X       O       X       O       X    
+
+
+   3   O       O       X       X       O       O       O       X    
+
+
+   2   X       X       O       X       O       O       O       X    
+
+
+   1   X       X       X       O       O       O       X       X    
+
+
+   0   X       X       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       X       X       X       X       X       X       X    
+
+
+   6   O       X       X       X       X       X       X       O    
+
+
+   5   O       X       X       X       O       O       O       O    
+
+
+   4   O       O       O       O       O       O       O       O    
+
+
+   3   O       O       X       X       X       X       O       O    
+
+
+   2   O       X       O       X       O       X       X       O    
+
+
+   1   O       O       O       O       O       O       X       O    
+
+
+   0   O       O       O       O       O       O       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       O       O       O       O       O       O       O    
+
+
+   6   X       O       O       O       O       O       O       O    
+
+
+   5   X       X       O       O       X       O       O       O    
+
+
+   4   X       X       X       X       O       X       O       O    
+
+
+   3   X       X       X       X       O       O       O       O    
+
+
+   2   X       X       X       X       X       O       O       O    
+
+
+   1   X       X       O       X       X       X       X       O    
+
+
+   0   X       X       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       X       X       X       X       X       X    
+
+
+   5   X       X       O       O       X       X       X       X    
+
+
+   4   X       O       X       O       O       X       O       X    
+
+
+   3   X       O       X       X       O       X       O       X    
+
+
+   2   X       X       X       O       X       O       O       X    
+
+
+   1   X       X       O       O       O       O       O       X    
+
+
+   0   X       X       O       O       O       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       X       X       X       O       X       X    
+
+
+   5   X       X       X       X       X       X       O       X    
+
+
+   4   X       X       X       X       X       X       O       X    
+
+
+   3   X       X       O       X       O       X       O       X    
+
+
+   2   X       O       O       X       O       O       X       X    
+
+
+   1   X       O       O       X       O       O       O       X    
+
+
+   0   O       O       X       X       X       X       O       O    
+
+
+num_playouts:1000, win: 6, lose: 3, tie:1
+policy_evaluate time:  6381
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 1
+batch i:41, episode_len:60
+kl:0.02603,lr_multiplier:0.132,loss:4.207951068878174,entropy:3.2796082496643066,explained_var_old:0.014,explained_var_new:0.022
+Game end. Winner is player: 1
+batch i:42, episode_len:60
+kl:0.03591,lr_multiplier:0.132,loss:4.244064807891846,entropy:3.2922627925872803,explained_var_old:0.019,explained_var_new:0.024
+Game end. Winner is player: 1
+batch i:43, episode_len:60
+kl:0.02322,lr_multiplier:0.132,loss:4.225222587585449,entropy:3.3112664222717285,explained_var_old:0.015,explained_var_new:0.032
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 1
+batch i:44, episode_len:60
+kl:0.02805,lr_multiplier:0.132,loss:4.143355369567871,entropy:3.315701961517334,explained_var_old:0.048,explained_var_new:0.069
+WARNING: mcts_alphago player no place to go
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 2
+batch i:45, episode_len:60
+kl:0.03066,lr_multiplier:0.132,loss:4.175303936004639,entropy:3.264251232147217,explained_var_old:0.037,explained_var_new:0.045
+Game end. Winner is player: 1
+batch i:46, episode_len:60
+kl:0.02696,lr_multiplier:0.132,loss:4.042484760284424,entropy:3.2486279010772705,explained_var_old:0.089,explained_var_new:0.116
+Game end. Winner is player: 2
+batch i:47, episode_len:60
+kl:0.02817,lr_multiplier:0.132,loss:4.0765700340271,entropy:3.1696877479553223,explained_var_old:0.020,explained_var_new:0.035
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 1
+batch i:48, episode_len:60
+kl:0.02410,lr_multiplier:0.132,loss:4.006234645843506,entropy:3.1490566730499268,explained_var_old:0.076,explained_var_new:0.080
+Game end. Tie
+batch i:49, episode_len:60
+kl:0.04228,lr_multiplier:0.088,loss:3.944904088973999,entropy:3.1325156688690186,explained_var_old:0.056,explained_var_new:0.061
+Game end. Winner is player: 2
+batch i:50, episode_len:60
+kl:0.02207,lr_multiplier:0.088,loss:4.016807556152344,entropy:3.15927791595459,explained_var_old:0.023,explained_var_new:0.026
+current self-play batch: 50
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       O       X       X       X    
+
+
+   6   X       X       X       O       X       X       X       X    
+
+
+   5   O       O       O       X       X       X       X       X    
+
+
+   4   O       O       X       X       X       X       X       X    
+
+
+   3   X       X       O       X       O       O       X       X    
+
+
+   2   X       X       X       O       O       O       O       X    
+
+
+   1   X       O       O       O       O       O       O       O    
+
+
+   0   X       O       O       O       O       O       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       X       X       X       X       X       O       X    
+
+
+   6   O       O       X       X       X       X       O       X    
+
+
+   5   O       X       O       X       X       X       X       X    
+
+
+   4   O       X       X       O       O       O       O       X    
+
+
+   3   O       X       O       X       O       X       O       X    
+
+
+   2   O       O       X       X       X       O       O       X    
+
+
+   1   O       O       O       O       O       O       O       X    
+
+
+   0   X       O       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       X       X       X       X       X       X    
+
+
+   5   X       O       X       O       O       O       O       O    
+
+
+   4   X       O       X       X       X       X       O       O    
+
+
+   3   X       O       X       O       X       O       X       O    
+
+
+   2   X       X       X       X       O       O       X       O    
+
+
+   1   X       X       X       O       O       X       X       O    
+
+
+   0   O       O       O       O       O       O       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       O       X       X       X       X       O    
+
+
+   6   O       O       O       O       O       O       O       O    
+
+
+   5   X       X       X       O       O       X       X       O    
+
+
+   4   X       X       O       O       O       O       X       O    
+
+
+   3   X       O       X       X       X       X       X       X    
+
+
+   2   X       O       O       O       O       O       X       X    
+
+
+   1   X       O       O       X       X       X       X       X    
+
+
+   0   X       O       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       O       O       O       O       O       O    
+
+
+   6   X       O       O       O       O       X       O       X    
+
+
+   5   X       X       X       O       O       O       X       X    
+
+
+   4   X       X       X       O       O       O       X       X    
+
+
+   3   X       X       O       X       X       O       O       X    
+
+
+   2   X       X       O       O       X       O       O       X    
+
+
+   1   X       X       X       O       O       O       X       X    
+
+
+   0   X       X       O       O       O       O       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       O       O    
+
+
+   6   X       X       X       O       X       X       X       O    
+
+
+   5   X       O       X       X       X       X       O       O    
+
+
+   4   X       O       X       O       O       O       X       O    
+
+
+   3   X       O       O       O       O       O       X       O    
+
+
+   2   X       X       X       O       X       O       X       O    
+
+
+   1   X       O       X       X       X       X       X       O    
+
+
+   0   O       O       X       X       X       X       X       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       X       X       X       X       X       X       X    
+
+
+   6   O       X       X       O       O       O       O       O    
+
+
+   5   O       X       O       O       O       X       O       X    
+
+
+   4   O       O       O       O       O       O       X       X    
+
+
+   3   O       O       X       O       O       X       X       X    
+
+
+   2   O       O       O       X       X       X       O       X    
+
+
+   1   O       O       O       O       X       X       X       X    
+
+
+   0   O       X       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       O    
+
+
+   6   X       X       X       O       O       X       X       O    
+
+
+   5   X       O       X       O       O       X       X       O    
+
+
+   4   X       O       X       O       X       O       X       O    
+
+
+   3   X       X       X       X       X       X       O       O    
+
+
+   2   X       O       O       O       O       O       O       O    
+
+
+   1   O       O       O       O       O       O       X       X    
+
+
+   0   X       X       X       X       X       X       X       X    
+
+
+WARNING: mcts_alphago player no place to go
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       X       X       X       X       X       X    
+
+
+   5   X       X       X       X       O       O       X       O    
+
+
+   4   O       X       X       X       X       X       O       O    
+
+
+   3   O       O       X       X       X       O       X       O    
+
+
+   2   O       O       O       X       O       O       X       O    
+
+
+   1   O       O       X       O       O       O       O       O    
+
+
+   0   O       O       O       O       O       O       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       X       X       X       X       X       X    
+
+
+   5   X       X       X       O       X       X       X       X    
+
+
+   4   X       O       X       O       O       X       O       O    
+
+
+   3   X       O       X       X       X       O       O       O    
+
+
+   2   X       X       X       X       X       X       O       O    
+
+
+   1   X       O       X       X       X       X       O       O    
+
+
+   0   X       X       X       X       X       X       X       O    
+
+
+num_playouts:1000, win: 10, lose: 0, tie:0
+New best policy!!!!!!!!
+policy_evaluate time:  6449
+Game end. Winner is player: 2
+batch i:51, episode_len:60
+kl:0.03119,lr_multiplier:0.088,loss:4.019659519195557,entropy:3.1976430416107178,explained_var_old:0.032,explained_var_new:0.038
+Game end. Winner is player: 2
+batch i:52, episode_len:60
+kl:0.02127,lr_multiplier:0.088,loss:3.947810411453247,entropy:3.1163787841796875,explained_var_old:-0.008,explained_var_new:-0.004
+Game end. Winner is player: 1
+batch i:53, episode_len:60
+kl:0.02156,lr_multiplier:0.088,loss:4.0197906494140625,entropy:3.1491193771362305,explained_var_old:0.001,explained_var_new:0.010
+Game end. Tie
+batch i:54, episode_len:60
+kl:0.01670,lr_multiplier:0.088,loss:3.908766984939575,entropy:3.0846805572509766,explained_var_old:0.013,explained_var_new:0.016
+Game end. Winner is player: 2
+batch i:55, episode_len:60
+kl:0.02860,lr_multiplier:0.088,loss:3.966609477996826,entropy:3.127607583999634,explained_var_old:-0.002,explained_var_new:-0.003
+Game end. Winner is player: 2
+batch i:56, episode_len:60
+kl:0.01789,lr_multiplier:0.088,loss:3.904362916946411,entropy:3.1565699577331543,explained_var_old:0.009,explained_var_new:0.016
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 1
+batch i:57, episode_len:60
+kl:0.02529,lr_multiplier:0.088,loss:3.8741719722747803,entropy:3.0726587772369385,explained_var_old:0.014,explained_var_new:0.011
+Game end. Winner is player: 2
+batch i:58, episode_len:60
+kl:0.03193,lr_multiplier:0.088,loss:3.832350015640259,entropy:3.019369602203369,explained_var_old:-0.004,explained_var_new:-0.001
+Game end. Winner is player: 2
+batch i:59, episode_len:60
+kl:0.03335,lr_multiplier:0.088,loss:3.875030755996704,entropy:2.9862961769104004,explained_var_old:-0.013,explained_var_new:-0.006
+Game end. Winner is player: 1
+batch i:60, episode_len:60
+kl:0.02655,lr_multiplier:0.088,loss:3.825012683868408,entropy:3.0202653408050537,explained_var_old:0.005,explained_var_new:0.008
+current self-play batch: 60
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       O       O       X       X    
+
+
+   6   X       X       X       X       O       O       X       X    
+
+
+   5   X       X       X       X       X       O       X       X    
+
+
+   4   X       X       X       X       X       O       O       X    
+
+
+   3   X       O       O       O       O       O       O       X    
+
+
+   2   X       O       O       O       O       X       O       X    
+
+
+   1   X       X       O       O       O       O       X       X    
+
+
+   0   O       O       O       O       O       O       O       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       X       X       X       X       X       X    
+
+
+   5   X       O       X       X       X       X       X       X    
+
+
+   4   O       O       O       X       O       O       X       X    
+
+
+   3   O       O       X       X       X       X       O       X    
+
+
+   2   O       O       O       X       X       X       O       X    
+
+
+   1   O       O       O       O       O       O       O       X    
+
+
+   0   O       O       O       O       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       O       O       O       X       X       X    
+
+
+   6   X       O       O       X       O       O       X       O    
+
+
+   5   X       O       O       O       O       X       O       O    
+
+
+   4   O       O       O       X       X       X       O       O    
+
+
+   3   O       O       X       X       O       X       O       O    
+
+
+   2   O       X       O       X       O       O       O       O    
+
+
+   1   O       X       X       X       X       X       O       O    
+
+
+   0   O       O       X       X       X       X       X       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       X       X       X       X       X       X    
+
+
+   5   X       O       O       O       X       X       O       X    
+
+
+   4   X       O       O       X       O       O       O       O    
+
+
+   3   X       O       X       O       O       X       O       O    
+
+
+   2   X       X       X       X       X       X       O       X    
+
+
+   1   X       X       O       X       X       X       X       X    
+
+
+   0   X       X       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       O       X    
+
+
+   6   O       O       X       X       X       O       O       X    
+
+
+   5   O       O       X       O       O       X       O       X    
+
+
+   4   O       O       O       O       X       O       O       X    
+
+
+   3   X       O       O       O       O       O       X       X    
+
+
+   2   X       X       O       X       X       X       O       X    
+
+
+   1   X       X       X       X       X       X       X       X    
+
+
+   0   X       O       O       O       O       O       O       X    
+
+
+WARNING: mcts_alphago player no place to go
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       X       X       X       X       X       X    
+
+
+   5   X       O       X       X       X       X       X       X    
+
+
+   4   X       X       O       X       X       O       X       X    
+
+
+   3   X       X       O       O       O       O       O       O    
+
+
+   2   X       X       X       O       O       O       O       O    
+
+
+   1   X       X       O       O       O       O       O       O    
+
+
+   0   X       O       O       O       O       O       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       O       O       O       O       O       O       X    
+
+
+   6   X       O       O       X       O       O       O       X    
+
+
+   5   X       O       X       O       O       O       O       X    
+
+
+   4   X       X       X       O       X       X       O       X    
+
+
+   3   X       X       O       O       X       O       O       O    
+
+
+   2   X       X       X       X       X       X       O       X    
+
+
+   1   X       O       X       X       X       X       X       X    
+
+
+   0   O       O       O       O       O       O       O       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       O       O       O       O       O       O       O    
+
+
+   6   X       O       O       X       X       X       X       O    
+
+
+   5   X       O       X       O       X       X       X       X    
+
+
+   4   X       O       O       O       O       X       X       X    
+
+
+   3   X       O       X       X       X       O       X       X    
+
+
+   2   X       X       X       X       O       O       X       X    
+
+
+   1   X       X       X       X       X       X       X       X    
+
+
+   0   X       X       X       X       O       O       O       O    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       X    
+
+
+   6   X       X       O       X       X       X       X       X    
+
+
+   5   X       O       O       O       X       O       O       O    
+
+
+   4   X       O       O       X       O       X       O       O    
+
+
+   3   X       X       X       O       X       O       X       X    
+
+
+   2   X       X       X       O       X       O       O       X    
+
+
+   1   X       O       O       X       X       O       O       X    
+
+
+   0   O       O       O       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   X       X       X       X       X       X       X       O    
+
+
+   6   X       X       X       X       X       X       X       O    
+
+
+   5   X       X       X       O       X       X       X       O    
+
+
+   4   X       O       O       X       O       X       X       O    
+
+
+   3   X       O       X       O       O       O       X       X    
+
+
+   2   X       X       X       X       X       O       X       X    
+
+
+   1   X       X       X       X       X       X       X       O    
+
+
+   0   O       X       X       X       X       X       X       O    
+
+
+num_playouts:2000, win: 8, lose: 1, tie:1
+New best policy!!!!!!!!
+policy_evaluate time:  11765
+Game end. Winner is player: 1
+batch i:61, episode_len:60
+kl:0.02674,lr_multiplier:0.088,loss:3.879059314727783,entropy:3.0103557109832764,explained_var_old:0.005,explained_var_new:0.004
+Game end. Winner is player: 1
+batch i:62, episode_len:60
+kl:0.02583,lr_multiplier:0.088,loss:3.827392339706421,entropy:3.0373830795288086,explained_var_old:-0.004,explained_var_new:-0.003
+WARNING: mcts_alphago player no place to go
+Game end. Winner is player: 1
+batch i:63, episode_len:60
+kl:0.02625,lr_multiplier:0.088,loss:3.74969744682312,entropy:2.9863059520721436,explained_var_old:0.007,explained_var_new:0.010
+Game end. Tie
+batch i:64, episode_len:60
+kl:0.02258,lr_multiplier:0.088,loss:3.8143882751464844,entropy:3.0101044178009033,explained_var_old:0.003,explained_var_new:0.004
+Game end. Winner is player: 2
+batch i:65, episode_len:60
+kl:0.02812,lr_multiplier:0.088,loss:3.763155460357666,entropy:2.9309370517730713,explained_var_old:-0.012,explained_var_new:-0.006
+Game end. Winner is player: 2
+batch i:66, episode_len:60
+kl:0.03199,lr_multiplier:0.088,loss:3.760550022125244,entropy:2.9536101818084717,explained_var_old:-0.004,explained_var_new:0.003
+Game end. Winner is player: 2
+batch i:67, episode_len:60
+kl:0.03837,lr_multiplier:0.088,loss:3.665421724319458,entropy:2.9529223442077637,explained_var_old:0.012,explained_var_new:0.016
+Game end. Winner is player: 2
+batch i:68, episode_len:60
+kl:0.03469,lr_multiplier:0.088,loss:3.66094708442688,entropy:2.9306821823120117,explained_var_old:0.012,explained_var_new:0.023
+Game end. Winner is player: 1
+batch i:69, episode_len:60
+kl:0.03197,lr_multiplier:0.088,loss:3.678650379180908,entropy:2.930234909057617,explained_var_old:0.029,explained_var_new:0.038
+Game end. Winner is player: 1
+batch i:70, episode_len:60
+kl:0.02492,lr_multiplier:0.088,loss:3.692047119140625,entropy:2.8486180305480957,explained_var_old:0.016,explained_var_new:0.021
+current self-play batch: 70
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       O       O       X       X       X       X       X    
+
+
+   6   O       O       O       O       O       X       X       O    
+
+
+   5   O       X       O       O       X       X       X       O    
+
+
+   4   X       X       O       X       X       X       X       O    
+
+
+   3   X       X       X       X       O       O       X       O    
+
+
+   2   X       X       X       X       O       O       X       O    
+
+
+   1   X       X       O       O       X       X       X       O    
+
+
+   0   X       X       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5       6       7
+
+   7   O       X       O       O       O       O       O       O    
+
+
+   6   X       X       X       O       O       O       O       O    
+
+
+   5   X       X       O       O       O       X       O       O    
+
+
+   4   X       X       X       X       X       O       X       O    
+
+
+   3   X       X       O       X       X       X       X       O    
+
+
+   2   X       O       X       X       X       X       X       X    
+
+
+   1   X       X       X       X       X       X       X       X    
+
+
+   0   X       X       X       X       X       X       X       X    
+
+
+Player 1 with X
+Player 2 with O
+
+       0       1       2       3       4       5
